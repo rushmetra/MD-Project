@@ -1,4 +1,5 @@
 # Trabalho prático de Mineração de Dados 2022/2023
+### Ethereum sentiment analysis using Tweets 
 
 # Grupo 1
 ## Constituição do grupo:
